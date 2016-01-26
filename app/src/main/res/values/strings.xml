@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Compete</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="facebook_app_id">1095044233854120</string>
+    <string name="title_activity_general">GeneralActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_nu_sporten">NuSportenActivity</string>
+    <string name="title_activity_later_sporten">LaterSportenActivity</string>
+    <string name="title_activity_planned">PlannedActivity</string>
+    <string name="title_activity_ladder">LadderActivity</string>
+    <string name="title_activity_current">CurrentActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="parse_app_id">8tXOWKPc3gjRIW4MdF0Md7Rc935bDn9Nxa8S1XYb</string>
+    <string name="parse_client_key">vDRj7x984WXSCzGsBpuLBDiCR4IhVJmPKycbFqpg</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_plan">PlanActivity</string>
+    <string name="title_activity_event">EventActivity</string>
+
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_my_pwd">I have forgotten my password?</string>
+    <string name="my_chats">My Chats</string>
+    <string name="all_chats">All Chats</string>
+    <string name="search">Search</string>
+    <string name="to">To</string>
+    <string name="edit">edit</string>
+    <string name="new_chat">New Chat</string>
+    <string name="alert_wait">Please wait...</string>
+    <string name="err_fields_empty">Please fill all the fields</string>
+    <string name="err_singup">Error occurred while signing up</string>
+    <string name="err_login">Error occurred while logging in</string>
+    <string name="err_users">Error occurred while finding users</string>
+
+    <string name="alert_loading">Loading...</string>
+    <string name="msg_no_user_found">No users found for chat</string>
+    <string name="title_activity_planner">PlannerActivity</string>
+
+</resources>
